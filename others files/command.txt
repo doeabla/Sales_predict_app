@@ -1,0 +1,3 @@
+source"C:\Users\USER\Azubi LP4\Sales app\app.py\my_env\Scripts\activate"
+python -m pip install -q --upgrade pip
+python -m pip install -qr requirement.txt
