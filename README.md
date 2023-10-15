@@ -46,4 +46,4 @@ We would like to thank Azubi Africa for the opportunity to learn how to build an
 
 | Project |	Name |	Published Article |	
 | ---- | -----| ----- | 
-| LP4	| Streamlit App |	[Streamlit App LP4](https://medium.com/@eadoe97/predicting-favoritas-future-a-regression-analysis-approach-to-sales-prediction-79692378793f) | 
+| LP4	| Streamlit App |	[Streamlit App LP4](https://medium.com/@eadoe97/empowering-retail-businesses-the-retail-store-sales-prediction-app-2b0a8fbaba80) | 
