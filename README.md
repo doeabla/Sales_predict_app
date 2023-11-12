@@ -33,7 +33,7 @@ The app uses an XGBoost-based machine learning model trained on historical sales
 ![image](https://github.com/doeabla/Sales_predict_app/assets/137217264/4a121425-526a-43e0-898c-03e80e93eeb1)
 
 ## Acknowledgements
-We would like to thank Azubi Africa for the opportunity to learn how to build an app with treamlit and the team who made this possible inspite of the setbacks. 
+We would like to thank Azubi Africa for the opportunity to learn how to build an app with streamlit and the team who made this possible inspite of the setbacks. 
 
 
 ## Authors
